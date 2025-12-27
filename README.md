@@ -88,10 +88,3 @@ Storage: JSON files under data/conversations/
 
 Package management: uv (Python), npm (JS)
 
-If you want, I can:
-
-Make it even drier / more minimal
-
-Add a short “Why this exists” paragraph tailored for recruiters
-
-Tighten it further for AI-detector paranoia mode
